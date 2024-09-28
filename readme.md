@@ -13,7 +13,7 @@
 ## Sobre o App
 
 O Aplicativo tem como objetivo ajudar pessoas principalmente estudantes a organizarem 
-suas atividades através de cronogramas nos quais podem ser criados com o aúxilio de 
+suas atividades através de cronogramas nos quais podem ser criados com o auxílio de 
 uma IA.
 
 
